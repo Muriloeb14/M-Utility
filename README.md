@@ -1,2 +1,2 @@
 # M-Utility
-Software localizador de códigos (AWB)
+Software Utilitário Logístico.
